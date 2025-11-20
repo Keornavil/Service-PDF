@@ -63,4 +63,5 @@ UI                  SwiftUI
 <img width="488" height="937" alt="Снимок экрана 2025-11-20 в 20 56 08" src="https://github.com/user-attachments/assets/022b850d-a94b-4922-bd3a-8a17d5694b13" />
 <img width="450" height="929" alt="Снимок экрана 2025-11-20 в 20 55 54" src="https://github.com/user-attachments/assets/e096df7b-6953-43e5-87b9-f11d03611aa0" />
 <img width="438" height="889" alt="Снимок экрана 2025-11-20 в 20 56 22" src="https://github.com/user-attachments/assets/eb5925a3-5edd-48e2-a08f-41676476ab7a" />
+<img width="434" height="950" alt="Снимок экрана 2025-11-20 в 23 59 31" src="https://github.com/user-attachments/assets/1a3a8b6f-94e5-496c-b217-ed193d85ca62" />
 
